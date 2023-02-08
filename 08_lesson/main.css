@@ -1,0 +1,9 @@
+table {
+    border-collapse: collapse;
+}
+html {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #333;
+    color:whitesmoke;
+    font-size: 22px;
+}
